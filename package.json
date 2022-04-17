@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/styled-engine": "^5.6.1",
+    "react-router-dom": "^6.3.0"
+  }
+}
